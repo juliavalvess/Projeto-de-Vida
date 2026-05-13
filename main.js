@@ -6,6 +6,6 @@ botoes [ i ]. onclick = function (){
 para ( seja j = 0 ; j < botoes.length ; j ++){
 botoes [ j ].classList . remover ( "ativo" );
 }
-botoes [ eu ].classList. add ( "ativo" );
+botoes [ i ].classList. add ( "ativo" );
 }
 }
